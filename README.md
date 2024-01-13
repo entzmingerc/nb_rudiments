@@ -3,7 +3,7 @@ a port of the rudiments synth engine as an nb synth for norns
 
 `nb` is a [voice library](https://github.com/sixolet/nb) for Norns.  
 `nb_rudiments` is a port of the lofi percussion synth [rudiments](https://github.com/cfdrake/rudiments) as an nb voice to be played with any nb compatible norns script.  
-it's a ...rudimentary port without many additional functions, just the engine with an added gain parameter and a tanh soft clipping on the output.  
+it's a ...rudimentary port without many additional functions, just the engine with an added gain parameter and a tanh soft clipping on the output. refer to the rudiments norns script for documentation on the parameters.  
   
 1) download this like you would any other script  
 2) turn on the mod: go to system > mods > find nb_rudiments, turn enc3 to the right until you see a +. this tells norns to load the mod at the next power ON  
